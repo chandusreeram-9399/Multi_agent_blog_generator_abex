@@ -1,6 +1,11 @@
-openai
 streamlit
 python-dotenv
 requests
 google-api-python-client
 serpapi
+google-search-results
+google-generativeai
+fpdf
+python-docx
+markdown
+pdfkit
