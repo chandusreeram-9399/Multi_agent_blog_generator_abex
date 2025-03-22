@@ -1,0 +1,6 @@
+openai
+streamlit
+python-dotenv
+requests
+google-api-python-client
+serpapi
