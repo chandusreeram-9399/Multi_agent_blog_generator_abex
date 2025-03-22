@@ -96,13 +96,22 @@ Network URL: http://192.168.xxx.xxx:8501
 
 ## Usage Instructions
 1. Enter a **query** related to an HR topic
+ ![Alt Text](https://github.com/chandusreeram-9399/Multi_agent_blog_generator_abex/blob/main/Screenshot%202025-03-22%20235427.png)
+
 2. The system will fetch trending topics and generate an **SEO-optimized** blog
+ 
+ ![Alt Text](https://github.com/chandusreeram-9399/Multi_agent_blog_generator_abex/blob/main/Screenshot%202025-03-22%20235444.png)
+
 3. You can **download** the blog post in the available formats:
    - 📄 PDF
    - 📝 DOCX
    - 🌐 HTML
    - 📋 TXT
    - 📑 Markdown
+     
+ ![Alt Text](https://github.com/chandusreeram-9399/Multi_agent_blog_generator_abex/blob/main/Screenshot%202025-03-22%20235501.png)
+
+
 4. To start a **new chat**, click the **New Chat** button and begin again
 
 ## Features
