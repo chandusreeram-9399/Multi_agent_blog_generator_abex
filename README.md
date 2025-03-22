@@ -26,7 +26,9 @@ A **multi-agent AI system** that generates a **high-quality, SEO-optimized** blo
 5️⃣ **Review Agent** ✅ → Proofreads and finalizes the blog  
 
 ---
-
+## System Workflow
+![Alt Text](https://github.com/chandusreeram-9399/Multi_agent_blog_generator_abex/blob/main/Screenshot%202025-03-22%20235411.png)
+---
 ## 🛠️ Tools & Frameworks Used
 
 | Tool          | Purpose |
