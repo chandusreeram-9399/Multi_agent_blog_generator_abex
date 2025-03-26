@@ -51,8 +51,8 @@ An AI-powered application that generates SEO-optimized HR blog content based on 
 
 ### 1. Clone the Repository
 ```
-git clone https://github.com/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Multi_agent_blog_generator_abex.git
+cd Multi_agent_blog_generator_abex
 ```
 
 ### 2. Create Virtual Environment
